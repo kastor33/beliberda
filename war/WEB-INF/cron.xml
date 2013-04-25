@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/tasker?action=addsend</url>
+    <description>Send me email with current historylist</description>
+    <schedule>every 6 hours</schedule>
+  </cron>
+  <cron>
+    <url>/tasker?action=addfind</url>
+    <description>Look all histories and count Total marks</description>
+    <schedule>every 2 hours</schedule>
+  </cron>
+</cronentries>
